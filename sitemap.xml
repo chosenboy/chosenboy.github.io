@@ -1,0 +1,15 @@
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+        <url>
+            <loc>https://blog.binarytom.cn/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://blog.binarytom.cn/some-article/</loc>
+            
+                <lastmod>2017-09-24</lastmod>
+            
+        </url>
+    
+</urlset>
